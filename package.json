@@ -9,7 +9,7 @@
     "restart": "pm2 restart ASITHA-MD"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "github:nstar-y/bail",
+    "@whiskeysockets/baileys": "github:Hupa11/Asithamdb",
     "@adiwajshing/keyed-db": "latest",
     "pino": "latest",
     "pm2": "latest",
@@ -57,7 +57,7 @@
     "@dark-yasiya/imgbb.js": "latest",
     "adm-zip": "^0.5.16",
     "@dark-yasiya/news-scrap" : "latest",
-    "sharp":"0.34.1",
+    "sharp":"0.32.6",
     "acrcloud":"latest",
     "xml2js":"0.6.2",
     "jimp": "0.16.1",
